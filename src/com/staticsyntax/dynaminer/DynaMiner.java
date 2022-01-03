@@ -16,9 +16,9 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
 
 @ScriptManifest(logo = "https://i.imgur.com/W3RQhXk.png",
-        name = "DynaMiner",
+        name = "Mining",
         info = "Static Scripts",
-        version = 1.01,
+        version = 1.02,
         author = "StaticSyntax")
 public class DynaMiner extends Script {
 
